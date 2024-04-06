@@ -250,6 +250,7 @@ button:hover, .button:hover {
   margin-top: 1.5rem;
   padding: 1.625rem;
   border-radius: 5px;
+  z-index:10;
 }
 .header__menu a {
   display: block;
